@@ -1,0 +1,6 @@
+[submodule "Documents"]
+	path = Documents
+	url = https://github.com/ALI-QADIR/Documents.git
+[submodule "Multiplayer-Party-Game-Project"]
+	path = Multiplayer-Party-Game-Project
+	url = https://github.com/ALI-QADIR/Multiplayer-Party-Game-Project.git
